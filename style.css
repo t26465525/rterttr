@@ -1,0 +1,32 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+body{
+  background-color: deeppink;
+}
+
+p{
+   color: darkolivegreen;
+   background-color: darkkhaki
+}
+.notr{
+  font-size: 20px;
+  background-color: darkseagreen;
+}
+
+#id-selector-demo {
+  color: bisque;
+}
+
+li[value="4"]{
+  color: cadetblue;
+}
+   
+*{
+   text-align:center;
+}
